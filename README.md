@@ -40,5 +40,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=CODER4149&show_icons=true&count_private=true&theme=radical" alt="NiharZanwar" />
  </p>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CODER4149&label=Profile%20views&color=0e75b6&style=flat" alt="silent-codder" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CODER4149&" alt="AmolYadav" /></p>
